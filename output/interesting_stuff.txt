@@ -1,0 +1,11 @@
+explicit?
+    Explicit tracks:
+    Non-explicit tracks:
+
+album type?
+    single count: 26
+    album count: 55
+    compilation count: 1
+
+Energy:
+

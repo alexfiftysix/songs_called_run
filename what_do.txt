@@ -1,0 +1,12 @@
+Popularity
+Explicit(ness)
+Release date
+
+the average Run song (This danceable, this long, etc)
+
+
+
+release country? - could go through artist to get release country
+
+Total listens
+Country of popularity
